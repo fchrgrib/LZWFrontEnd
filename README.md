@@ -7,7 +7,7 @@ This is a web for compressing or decompressing a text, the output will be binary
 The user should fill the text with text or binary in text field and choose want to decompress or not in radio box and choose want to optimize the algorithm with Run Length Encoding algorithm or not, if user already fill all of that then click the post button. thw result will appear in below of radio box.
 
 ## Screen
-![image](https://github.com/fchrgrib/LZWFrontEnd/assets/89321009/a765d033-952d-4991-9314-ca904f9d19b3)
+<img src = "./assets/img.jpg">
 
 
 
